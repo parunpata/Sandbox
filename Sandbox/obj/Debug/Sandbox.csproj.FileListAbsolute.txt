@@ -1,0 +1,6 @@
+D:\Projects\SourceControl\Sandbox\Sandbox\bin\Debug\Sandbox.exe.config
+D:\Projects\SourceControl\Sandbox\Sandbox\bin\Debug\Sandbox.exe
+D:\Projects\SourceControl\Sandbox\Sandbox\bin\Debug\Sandbox.pdb
+D:\Projects\SourceControl\Sandbox\Sandbox\obj\Debug\Sandbox.csprojResolveAssemblyReference.cache
+D:\Projects\SourceControl\Sandbox\Sandbox\obj\Debug\Sandbox.exe
+D:\Projects\SourceControl\Sandbox\Sandbox\obj\Debug\Sandbox.pdb
