@@ -19,7 +19,5 @@
             wert = default(T);
             wert = new T();
         }
-
-        
     }
 }
